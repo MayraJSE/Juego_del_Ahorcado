@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Juego del Ahorcado</string>
+
+    <string name="title">Resultados</string>
+    <string name="reintentar">Volver a Jugar</string>
+    <string name="salir">Salir</string>
+</resources>
